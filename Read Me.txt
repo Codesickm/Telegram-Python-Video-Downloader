@@ -1,0 +1,60 @@
+Details About Telegram Video Downloader Final Beta 1.10.01.07.25
+
+Key Notes :
+    
+    1.Simple UI
+    2.Python Backend With The Usage of Telethon
+    3.Html,CSS & JS Used in single file of frontend
+    4.Understable Code Means Roockie Code
+
+Known Bugs and Problems :
+
+    1.Slow Download
+    2.Private channel's files takes to much time.
+    3.Can Dowload Big Files But You Must Need To Consider Server Load time. (it takes 10 minutes to download 100mb file of telegram)
+    4.Not Fully Completed.
+    5.Doesn't Support 2 Factor Authentication
+    6.Some Garbage Code is Still In There.
+
+
+How To Use ? #For First Time Installation
+
+    step 1. Need An API of Telegram
+            -- Go to https://my.telegram.org/auth?to=apps
+            -- Login Using Your Mobile Number
+            -- Then Create Web Application For API
+            -- Give It Name Then Copy Your API id amd Hash
+            -- paste It in app.py API_ID and API_HASH
+
+    step 2. Run the run_downloader.bat  
+            -- run the batch file        
+            -- the batch file will download every library which needs to run our server 
+            -- after then login using your telegram number in second Command Prompt
+            -- then enter passcode For entering frontend
+            -- passcode is : 123456789  # Note : if you have knowledge of JS You can change Passcode According To Your Prefrences 
+            -- Note : after run it first time you doesn't need to Re-Run it just run the start.bat 
+            
+
+ 	step 3. it's too difficult for you now so consider step 2 for now ..
+
+        
+    now enjoy the debugging ..........
+
+
+    Debugger Write Your Reviews About This Final Beta Version .......
+    ---------------------------------------------------------------------------------------
+    '                                                                                     ' 
+    '                                                                                     '          
+    '                                                                                     '
+    '                                                                                     '  
+    '                                                                                     '  
+    '                                                                                     '  
+    '                                                                                     '  
+    '                                                                                     '  
+    '                                                                                     '  
+    '                                                                                     '  
+    ---------------------------------------------------------------------------------------
+    contributers for now 
+
+    -- Mohit
+    -- Chat GPT

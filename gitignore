@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore download files
+downloads/
+
+# Ignore OS / Editor files
+.DS_Store
+.env
+*.zip
