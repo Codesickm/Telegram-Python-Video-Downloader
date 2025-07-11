@@ -29,7 +29,7 @@ Supports public/private channels, real-time download progress, and direct browse
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Codesickm/telegram-video-downloader.git
+git clone https://github.com/Codesickm/Telegram-Python-Video-Downloader.git
 cd telegram-video-downloader
 
 # 2. Create virtual environment
