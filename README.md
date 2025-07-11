@@ -95,7 +95,6 @@ This project highlights my skills in building **web APIs**, handling **async med
 ### 📞 Let's Connect
 
 - GitHub: [@Codesickm](https://github.com/Codesickm)  
-- Instagram: [@vibhu_nailart_12](https://instagram.com/vibhu_nailart_12)  
 - Always open for feedback, collabs, or just a chat!
 
 ---
